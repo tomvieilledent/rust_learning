@@ -1,4 +1,4 @@
-L## 📚 Learning Summary (hello_rust)
+### 📚 Learning Summary (hello_rust)
 
 ### ✅ 1. Structure of a Rust Project
 - **Cargo** is the official tool to create and manage a Rust project.
